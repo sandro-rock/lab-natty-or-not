@@ -3,23 +3,21 @@
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Yara, Apresentando IAs Generativas;)
 
 ## 📒 Descrição
 Vídeo curto mostrando, de forma envolvente, como as IAs Generativas já fazem parte do nosso dia a dia
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
-- IA Generativa **[D-ID](https://www.d-id.com)** para sintetização de voz e geração de avatar virtual;
-- Software **[Adobe Premiere](https://www.adobe.com/products/premiere.html)** para edição de vídeo.
+IA Generativa **[ChatGPT](https://chat.openai.com)** para criação do texto e revisão;
+IA Generativa **[Vidnoz](https://www.vidnoz.com/)** Permite converter texto em vídeo com avatar virtual que fala (lip-sync);
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+## 🧐 Processo de Criação:
+O ChatGPT foi utilizado para estruturar o texto e aprimorar a narrativa, enquanto o Vidnoz possibilitou a síntese de voz e animação do avatar.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
+https://share.vidnoz.com/aivideo?id=aishare-UFuFp7x9WI4cdhUWr9BnzqbJ176295977222344925
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-
-
+O projeto revelou o poder das IAs Generativas em dar voz à criatividade, explorando novas fronteiras na produção de áudio e mídia digital
